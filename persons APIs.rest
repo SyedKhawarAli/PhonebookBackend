@@ -1,0 +1,11 @@
+### get all persons
+GET http://localhost:3001/api/persons
+
+### Add new person
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Dilawar Shah",
+  "number": "041-12345612"
+}
