@@ -9,3 +9,6 @@ Content-Type: application/json
   "name": "Dilawar Shah",
   "number": "041-12345612"
 }
+
+### Get single person
+GET http://localhost:3001/api/persons/65950b8b7b8bea7d78b08b02
